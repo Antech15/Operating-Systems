@@ -1,0 +1,12 @@
+---
+:id: 153563088
+:submitters:
+- :name: Andres Pedro Hinojosa
+  :email: hinoj030@cougars.csusm.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-09 20:09:13.817471000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-09 12:09:13.817471000 Z
+:status: processed
+:score: 110.0
